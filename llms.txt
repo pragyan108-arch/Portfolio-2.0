@@ -1,0 +1,40 @@
+# Pragyan Sharma — Portfolio
+
+Pragyan Sharma is a Bachelor of Computer Applications student at Kanpur Institute of Technology in Kanpur, India (2024–2027). His interests include data analytics, data science, cybersecurity and practical digital tools. He is open to Data Analytics internships in Kanpur, on-site or hybrid.
+
+## Headline
+- Data Analytics Intern | SQL, Python (Pandas), Advanced Excel | Transforming Raw Data into Actionable Insights
+
+## Education
+- BCA, Kanpur Institute of Technology, 2024–2027
+- Class XII, Jawahar Navodaya Vidyalaya, Sarsaul, 2022–2023
+- Class X, Jawahar Navodaya Vidyalaya, Sarsaul, 2020–2021
+
+## Projects
+- YATRA: An AI-powered smart tour management system. Its nine modules are AI Trip Planner, Budget Predictor, Smart Route Planner, Nearby Smart Suggestions, Weather Planner, Smart Packing List, Hotel Value Score, Smart Price Guard and Emergency Assistant. Highlights include an all-in-one platform, personalization with saved data, PDF export and safety-focused emergency information. Objectives: simplify planning, provide personalised recommendations, manage expenses, support safety and explore destinations. Stack: HTML5, CSS3, JavaScript, Leaflet.js, OpenStreetMap, Open-Meteo API, OSRM, OpenRouteService, Overpass API, Nominatim, jsPDF, LocalStorage and Netlify.
+- Sales and Revenue Analysis Dashboard: An analytics project using Power BI and Advanced Excel, focused on transaction data preparation, sales performance, revenue trends, executive KPIs and interactive reporting.
+- Kavach AI: India’s Unified Fraud, Scam & Deepfake Defense Platform. Team tagline: “Detect. Verify. Protect.” Built by team Trust Rakshak at HackIndia AI & CyberTech Hackathon 2026 on 28 October 2026 at Kanpur Institute of Technology. Detects phishing links, scam messages, suspicious websites and manipulated images using a Unified Trust Score Engine and custom Local Detection Engine. Its fallback architecture continues working when external services fail, and its dashboard was redesigned several times for non-technical users. Stack: React.js, Tailwind CSS, Vite, Node.js, Express.js, MongoDB Atlas, REST APIs, Google Gemini AI and Google Safe Browsing API. GitHub profile: https://github.com/pragyan108-arch
+
+Project visuals on the page are illustrative and are not screenshots of the project software.
+
+## Skills
+- Programming: Python, C, C++, JavaScript ES6
+- Analytics: SQL, Pandas, NumPy, data analytics, exploratory data analysis, statistical analysis
+- Visualization: Microsoft Power BI, Microsoft Excel, Advanced Excel, Pivot Tables, VLOOKUP
+- Web and tools: HTML, CSS, REST APIs, Git, GitHub, VS Code, JSON, responsive web design, local storage
+- Learning: Databricks Generative AI
+- Strengths listed in the supplied profile: analytical reasoning, problem solving, teamwork, research
+
+## Learning and credentials
+- Quantium Data Analytics Job Simulation, Forage, June 2026
+- AINCAT 2026 India's Biggest Career Aptitude Test, Naukri Campus, June 2026
+- Tata GenAI Powered Data Analytics Job Simulation, Forage, May 2026
+- Introduction to Cybersecurity, Cisco, October 2025
+- HackIndia AI & CyberTech Hackathon 2026 Certificate of Participation, Team Trust Rakshak, 28 October 2026
+
+## Contact
+- Email: pragyan.sharma.95@gmail.com
+- LinkedIn: https://www.linkedin.com/in/pragyan-sharma-
+
+## Pages
+- `/`: Portfolio introduction, story, selected projects, approach, journey, skills and contact.
